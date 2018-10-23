@@ -1,2 +1,2 @@
 # making boot menu on windows, using grub4dos and grub2
-UEFI and Legacy
+Running grub4dos UEFI and Legacy mode
